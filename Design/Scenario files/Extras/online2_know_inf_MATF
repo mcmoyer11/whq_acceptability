@@ -1,0 +1,274 @@
+
+# Follow-up to Experient 1, online acceptability judgement task
+# Morgan Moyer
+# last edit: Jan 19, 2017
+
+# scenarios for know-where and know-who
+# infinite (-fin)
+# MA T+F
+
+
+########################################################################
+
+# know-where-find-3
+# -fin
+# MA-T+F
+# tourist
+
+Andy works for a magazine company and gets to travel frequently for her job. She is traveling to NYC for the first time and is making an itinerary. She is looking to find popular tourist attractions to visit. Her friend Bobbie has been to NYC before, she calls her up to ask her opinion.
+
+The Empire State Building, Central Park, Statue of Liberty, and Ellis Island are popular tourist attractions in NYC. The subways, news kiosks, and food cart stands are not.
+
+Andy asks Bobbie where to find tourist attractions in NYC.
+
+Bobbie responds, "News kiosks, the Empire State Building, Central Park, Statue of Liberty, and Ellis Island."
+
+Andy reports, "Bobbie knows where to find tourist attractions in NYC."
+
+########################################################################
+
+
+########################################################################
+
+# know-who-invited-3
+# -fin
+# MA-TF
+# cruise
+
+Fred is planning to surprise his parents with a huge party on a yacht for their 50th wedding anniversary. The Island is a very fancy and popular yacht that people rent out for parties. It usually gets very rocky when traveling through rough waters, so typically people who get seasick are advised not to board. 
+
+Fred has to decide who to invite to the party. William, Rick, and Margaret do not get seasick, while Justin, Adam, and Paul do.
+
+Fred asks his sister Mary who to invite on the cruise ship.
+
+Mary responds, “William, Rick, Margaret, and Adam.”
+
+Fred reports, "Mary knows who to invite to the cruise ship."
+
+
+########################################################################
+
+# know-where-bury3
+# -fin
+# MA-TF
+# dogbone
+
+It’s important for dogs to bury their bones so that other dogs cannot find them and steal them. 
+
+Bones can be buried under the shed, next to the rocks, near the tree or by the fence but not in the house, by the bird bath, or near the pool. 
+
+Fido is looking to bury his bone and asks Pluto where to bury bones. 
+
+Pluto says “In the house, under the shed, next to the rocks, near the tree or by the fence."
+
+Fido reports, "Pluto knows where to bury bones."
+
+
+########################################################################
+
+# know-who-call3
+# -fin
+# MA-TF
+# lasagne
+
+Garfield is hungry and wants delivery so he asks John who to call for lasagne.
+
+The Pines of Rome, Old Man Rafferty's, and Olive Garden make lasagne, but Hansel n Griddle, Cookies & Crepes and Mamoun’s do not. 
+
+John says, “Cookies & Crepes, the Pines of Rome, Old Man Rafferty's and Olive Gerden.”
+
+Garfield reports, "John knows who to call for lasagne."
+
+########################################################################
+
+
+# know-where-sell3
+# -fin
+# MA-T
+# 
+
+Charleston is a small town in South Carolina, where people enjoy riding bicycles from place to place.
+
+Affordable Bicycle Shop, Bicycle & Outdoor Shoppe, and Mike’s Bikes are popular bike stores for people to sell their bikes to. Charleston Bicycle Company, Ride Bikes, and Sweetgrass Cycles are not very popular bike stores.
+
+Jake lives in Charleston, but is moving to New Jersey, where he hears people drive more often than ride their bikes, so he decides he wants to sell his bike to a used bicycle store in Charleston before moving. He is unsure of which bike shop is popular and would give him a good deal.
+
+John asks his dad where to sell his bike. for a good deal.
+John asks his dad where bikes are sold.
+
+John’s dad says, “Affordable Bicycle Shop, Bicycle & Outdoor Shoppe, and Mike’s Bikes are good places to sell your bike to for a good deal.”
+
+John says, “Affordable Bicycle Shop, Bicycle & Outdoor Shoppe, and Mike’s Bikes are reliable places where bikes are sold.”
+
+########################################################################
+
+
+
+# know-where-hide3
+# -fin
+# MA-T
+# 
+
+Two friends work at a grocery store together. There is a new type of ice cream the store buys and the friend love it so much, they decide to hide it so no customers can buy it. Then, they plan to buy all of it for themselves. 
+Without their managers seeing, they can hide the new ice cream in the break room, Friend 1’s locker, Friend 2’s locker, and with the extra shipments of frozen goods. They cannot hide it in the manager’s closet, the employee fridge, or the manager fridge.
+3)Friend 2 has worked at this grocery store for longer than Friend 1, so Friend 1 wants to know where is a good place to hide the ice cream so the manager wont see.
+Friend 1 asks Friend 2 where to hide the ice cream so the manager wont see.
+Friend 2: “In the break room, Friend 1’s locker, Friend 2’s locker, and with the extra shipments of frozen goods.”
+
+?????
+
+“ “
+“ “
+Friend 2 has worked at this grocery store for longer than Friend 1, so Friend 2 hides the ice cream during her morning shift. Then Friend 1 comes in to start her closing shift as Friend 2 is leaving.
+Friend 1 asks Friend 2 where the ice cream is hidden.
+Friend 2: “In the break room, Friend 1’s locker, Friend 2’s locker, and with the extra shipments of frozen goods.”
+
+
+########################################################################
+
+# know-where-store3
+# -fin
+# MA-T
+# wedding
+
+Because Timmy has been misbehaving in elementary school and has been in timeout almost every day during recess, Timmy’s mom decided to hide all of his favorite toy cars. There are only a few places the toy cars can be stored because Timmy’s house is not too big.
+The closet, on top of the fridge, in the car trunk, and the garage are places available in the house for Timmy’s cars.
+The toy box, the cabinets, and the bedroom do not have enough space for all his cars
+Timmy’s punishment is finally over and he asks his mom where they are
+Timmy’s mom asks his dad: do you know where to store Timmy’s cars?
+Timmy’s dad replies: the closet, on top of the fridge, in the car trunk, and the garage
+Timmy asks his mom: do you know where my cars are stored?
+Timmy’s mom replies: the closet, on top of the fridge, in the car trunk, and the garage
+
+
+
+########################################################################
+
+
+
+# know-who-select3
+# -fin
+# MA-T
+# 
+
+Out of the 20 applicants applying to speech-language pathology graduate school, only 3 get in. The criterion relies on GPA, GRE scores, and extra curricular activities. 
+The only applicants who have the criteria are Jamie, Nate, Andrew and John.
+The applicants who did not make it to the next round of graduate school are Jimmy, Emma, and Nate
+The admissions director asks the other director: do you know who is selected into the program?
+The other director answered: Jamie, Nate, Andrew and Mark _________________________________________________________________
+The admissions director asks the other director: do you know who are selected into the program?
+The other director answered: Jamie, Nate, Andrew, and Mark 	
+
+########################################################################
+
+
+
+# know-who-interview3
+# -fin
+# MA-T
+# 
+
+A sociologist is conducting interview-based research on why people with high IQs tend to love gambling so much. She is given a list by her assistant of people in the area willing to be interviewed by her, yet it does not include which people on the list have the minimum IQ needed to be included in her study.
+The people on the list who have a high enough IQ are Lisa, Jared, Tom, and Samantha. The people who do not have a high enough IQ are Peter, Carla and Joshua.
+The sociologist goes to her assistant’s office to ask her which of the people meet the IQ minimum.
+The sociologist asks the assistant who to interview.
+The assistant: “Lisa, Jared, Tom, and Samantha have an IQ that meets the minimum requirement to be included in the study.”
+III.b.
+“ “
+“ “
+The assistant is in charge of determining which subjects have a high enough IQ and then conducting the interviews. The sociologist goes to her assistant’s office to get the recordings of the interviews her assistant has finished.
+The sociologist asks the assistant who was interviewed.
+The assistant: “Lisa, Jared, Tom, and Samantha have an IQ that meets the minimum requirement to be included in the study.”
+
+
+########################################################################
+
+# know-who-recruit3
+# -fin
+# MA-T
+# 
+A General is looking to recruit soldiers for a very special mission. He needs his best men in order to ensure that his mission will be carried out successfully. He consults one of the sergeants to ensure he recruits the best men for the job.
+
+Soldiers with self-discipline, dependability, integrity, and courage are qualities of good recruits. Soldiers with lethargy, poor decision-making skills, and fearfulness are not. 
+
+The general asks one of the sergeants if he knows who would make good recruits for the mission.
+
+The sergeant responds: Soldiers with self-discipline, dependability, integrity, and courage.
+
+########################################################################
+
+
+# know-where-view3
+# -fin
+# MA-T
+# 
+
+Adrian is interested in signing up for the school play but doesn't know where the sign-up 	sheets are posted. She has a friend Jack who's in Student Council who might have an 	idea, although he's never actually been in a play himself. Sign-ups were posted in A, B, C 	and D but not in E, F and G. Mary decides to ask Joe where to view the sign-up lists. Joe 	responds: 
+
+"A, B, C and D are locations where to view the sign-up sheets."
+"Sign-up sheets are viewed in locations A, B, C and D."
+
+########################################################################
+
+
+# know-where-locate3
+# -fin
+# MA-T
+# 
+
+It is a week until thanksgiving and Sam’s mom sent her to the store to pick up a few extra things. The last thing on her list is cranberry sauce, however she is unable to find it so she asks a Wegmans employee.
+Present t/f sets: Cranberries & cranberry sauce are in aisles 3 and 4, and cranberry sauce is in aisle 4 and 5.
+[ques]: Do you know where to locate the cranberry sauce?
+Do you know where the cranberry sauce is located?
+Response: The cranberry sauce is on aisle 5.
+
+########################################################################
+
+# know-who-ask3
+# -fin
+# MA-T
+# 
+
+Today is Mary’s wedding day and the bridesmaids have misplaced the bride’s shoes. They know it was given to either the wedding planner, or the mother of the bride.
+Present t/f: the wedding planner has the shoes
+Bridesmaid to bridesmaid[ques]: DO you know who to ask for the shoes?
+Wedding planner to bridesmaid:  DO you know who was asking for the shoes
+Response the wedding planner has the shoes
+
+########################################################################
+
+
+# know-who-contact3
+# -fin
+# MA-T
+# 
+
+Alan is interested in getting a job working for Amazon. He doesn't want to go through the online application process because he believes that no one will see it. A, B, C and D all work in the Human Resources Department of Amazon while E, F and G do not. Alan isn't sure who to contact, but he remembers that one of his buddies from high school got a job in the packaging department for Amazon so he may know who to contact for an interview. He asks his buddy Dylan and Dylan thinking for a moment responds:
+
+a) "Ah yes, I know who to contact: A, B, C and D, but you'll need their e-mails."
+
+
+########################################################################
+
+# know-who-hire3
+# -fin
+# MA-T
+# 
+
+Vacancies at a small business require certain people to be hired to fill the position. Managers, HR representatives, part-time workers or administrative assistants are good people to hire for positions in a small business and beekeepers, software engineer, art historians, or linguists are not. The owner of a small business is looking to hire someone to fill a vacant position and asks a friend if they know who to hire to fill the position. The friend says “Managers, HR representatives, part-time workers or administrative assistants”.
+
+########################################################################
+# know-where-display3
+# -fin
+# MA-T
+# 
+
+Sam is still figuring out her way through the store and how to set up before opening. Her manager asks her to place the earrings on their correct shelf. There are three shelves for the jewelry, the top is for the earrings, the middle is for the bracelets and the bottom is for the necklaces.  Sam gathers the earrings and procedes to ask the employee helping her,
+
+“Do you know where to display the earrings?”
+
+“Do you know where the earrings are displayed?”
+
+The earrings are displayed on the top shelf.
+
+########################################################################

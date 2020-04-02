@@ -1,0 +1,243 @@
+
+# Follow-up to Experient 1, online acceptability judgement task
+# Morgan Moyer
+# last edit: Jan 19, 2017
+
+# scenarios for know-where and know-who
+# infinite (+fin)
+# MA-True+False
+
+########################################################################
+
+
+# predict-where-find3
+# +fin
+# MA-TF
+# prom
+
+Prom is approaching quickly, and Sally needs to find the perfect dress. She is willing to search all over to find one that is dazzling. Her older sister, Amy, who went to prom last year, so Sally asks Amy where to find a dress.
+
+Amy says, "The boutique in town, Macy's, Bella Bridesmaids and Wal-Mart."
+
+It turns out, Kohl’s, the Sports Store, and Wal-Mart either don't sell prom dresses or are all sold out. The boutique in town, Macy's, and Bella Bridesmaids however have plenty of choice.
+
+Sally reports, "Amy predicted where to find prom dresses."
+
+
+########################################################################
+
+# predict-where-view3
+# +fin
+# MA-TF
+# Hollywood
+
+Zack is going on vacation to California and wants to see the Hollywood sign. He hopes to find the best place possible to view the sign. He asks his brother Joe, who lives in LA, where to find the best view.
+
+Joe responds, "Downtown, Beachwood Canyon, Lake Hollywood Park, The Griffith Observatory, and Mulholland Drive."
+
+In fact, Beachwood Canyon, Lake Hollywood Park, The Griffith Observatory, and Mulholland Drive all had great views of the Hollywood Sign, but Downtown and Runyon Canyon Park had horrible, smoggy views.
+
+Zack reports, "Joe predicted where to view the Hollywood Sign."
+
+########################################################################
+
+# predict-who-recruit3
+# +fin
+# MA-TF
+# pta
+
+Jimmy’s dad, Bill, is in charge of the PTA committee and needs to recruit parents for the upcoming school year. He wants to choose parents carefully so he can ensure a successful year. He asks Gina, the recruitman chair, who to recruit for the committee.
+
+Gina responds, "Harry, Susan, Betty and Keith."
+
+At the end of the year, Susan, Betty, and Keith have been successful additions to the committee, but Harry, has caused conflict among some parents.
+
+Bill reports, "Gina predicted who to recruit for the committee."
+
+
+########################################################################
+
+
+# predict-where-display3
+# +fin
+# MA-TF
+# decorations
+
+The O’Harrings live in a very festive neighborhood, where everyone competes to have the best holiday displays. Mom bought several giant blow-up lawn ornaments, and now the family is wondering how to arrange them best to win the competition. Dad asks Jen her opinion.
+
+Jen says, "On the roof, on the lawn, in the front bedroom windows and on the side of the house."
+
+It turns out the judges loved the decorations on the roof, lawn and in the front windows, but they couldn't really see the decorations on the side of the house.
+
+Dad reports, "Jen predicted where to display the decorations."
+
+
+########################################################################
+
+# predict-who-invite3
+# +fin
+# MA-TF
+# parishotel
+
+The Paris Hotel only accommodates seven people in a hotel room. The Vellucis have decided to go on vacation and stay in a fancy hotel. Mom and Dad allowed Amanda to invite three friends to come on vacation with them: Jenny, Buster, Janice, and Sally. Mom and Dad are wondering which friends will be actually be good guests at the hotel. 
+
+Mom guesses, "Jenny, Buster, Janice and Sally."
+
+Turns out, Sally was quite the raucous guest, and created havoc whereever she went. The other three were very well-behaved.
+
+Dad reports, "Mom predicted who to invite."
+
+
+
+########################################################################
+
+# predict-where-store3
+# +fin
+# MA-TF
+# christmas
+
+Since it is almost Christmas time, the Santa’s workshop is a mess. He needs to become more organized in order to get all the presents to the children in time. He is calling in all his elves into the workshop to help clean up. They have a surplus of wrapping paper that must be put away. He and Mrs. Claus are deciding where to store the paper.
+
+Mrs. Claus says, "Under the bed, in the closet, and in the cupboard."
+
+When they finally get around to storing the paper, there is space under the bed and in the closet, but the cupboard is too full to fit any paper.
+
+Santa reports, "Mrs. Claus predicted where to store the wrapping paper."
+
+
+
+########################################################################
+
+# predict-where-locate3
+# +fin
+# MA-TF
+# centralpark
+
+On their first ever trip to the east coast; a family is struggling to find important landmarks in the always-overwhelming New York City. All the kids want to visit central park so they can finally have some time to run around and play, but its hard to for the family to find an enterance.  Dad asks Mom where to locate an entrance to the Park.
+
+Dad replies, “4th avenue, 32nd street, and Broadway Avenue and Avenue of the Americas.”
+
+As it turns out, Central park can be entered through 4th avenue, 32nd street, and Broadway Avenue but not from 5th avenue, or the Avenue of the Americas.
+
+Mom reports, "Dad predicted where to locate an entrance to Central Park."
+
+
+########################################################################
+
+# predict-who-contact3
+# +fin
+# MA-TF
+# psychic
+
+Peter's company has a psychic, Jadhai, come into the office for free readings every Friday as a stress relief measure. However, Jadhai is going on maternity leave, so a new psychic must be hired. Peter and Jadhai are wondering who to contact. 
+
+Jadhai says, "Melissa, Kay, Sandra and John."
+
+Peter finds out the next day that his boss contacted Melissa, Kay, and Sandra, but not John.
+
+Peter reports, "Jadhai predicted who to contact for a replacement."
+
+
+########################################################################
+
+# predict-where-hide3
+# +fin
+# MA-TF
+# alcohol
+
+A resident can get in trouble if an RA finds them in possession of alcohol. Alvin wants to hide his alcohol and asks Bertie to guess where to hide it. 
+
+Bertie says “In the cabinet, under the bed, in the drawer, and behind the desk.” 
+
+Alvin hid his alcohol in all four places, and the RAs only found the bottles hidden behind the desk.
+
+Alvin reports, “Bertie predicted where to hide the alcohol.”
+
+
+
+########################################################################
+
+# predict-where-bury3
+# +fin
+# MA-TF
+# seeds
+
+Henry and Lila are getting their garden ready for the season. They have a new kind of seed for a plant they have never tried before. They are going to bury seeds in multiple places to experiment with the best locations. Henry asks Lila her opinion. 
+
+Lila says, "By the garage, in the front yard, and on the right side of the house."
+
+The plant ends up thriving by the garage and in the front yard, but not on the right side of the house.
+
+Henry reports, "Lila predicted where to bury the seeds."
+
+
+
+########################################################################
+
+
+# predict-who-call3
+# +fin
+# MA-TF
+# donations
+
+Rich just started working at a donation call center to help raise money. He is going to first ask some of his friends to donate to the cause. He consults his other friend Barbara.
+
+Barbara says, "Me, Peter, Hannah, and Gus."
+
+After Rich calls his friends, Barbara, Peter and Hannah have agreed to donate, but Gus declined.
+
+Rich reports, "Barbara predicted who to call for donations."
+
+
+
+########################################################################
+
+
+# predict-who-hire3
+# +fin
+# MA-TF
+# mural
+
+Martha and Eileen are painting a mural in the cafe they own together. They've hired their friends Jules, Butch, Jeff, and Kat to help them out. They are deciding who, amongst their friends, will do good jobs. 
+
+Martha says, "Jules, Butch, Jeff and Kat."
+
+After the job is done. Martha and Eileen decide that they are happy with the work that Butch, Jeff and Kat did. But they decide to redo the areas which Jules painted, becuase she did a sloppy and ugly job.
+
+Eileen reports, "Martha predicted who to hire for painting the mural."
+
+
+
+########################################################################
+
+
+# predict-who-select3
+# +fin
+# MA-TF
+# officeparty
+
+Christina and Gabe are deciding who they're going to select for office party planning committee this year. They ask Bill, Jimmy, Cate, Veronica and Ezra to be on the committee. Now they are wondering which of these people will be good party planners. Gabe asks Christina who she thinks will be good.
+
+Christina says, "Bill, Cate, Veronica and Ezra."
+
+As it turns out, Cate, Veronica and Ezra do a really great job making the party memorable. On the other hand, Billy and Jimmy slack off and don't do any work.
+
+Gabe reports, "Christina predicted who to select to be on the committee."
+
+########################################################################
+
+# predict-where-sell3
+# +fin
+# MA-TF
+# sweaters
+
+Danny is trying to sell his collection of ugly Christmas sweaters. He has permits to sell at the mall, at the local boutique, at a pop-up in town, and online. He asks his friend Felicia to guess which places will be successful.
+
+Felicia says, "Online, the local boutique and the pop-up in town."
+
+As it turns out, the online store and mall location did poorly, but the local boutique and the pop-up did very well.
+
+Danny reports, "Felicia predicted where to sell the sweaters."
+
+
+
