@@ -1,0 +1,4 @@
+to run the python script
+first
+source activate py27
+then python stakes_preprocesscopy.py

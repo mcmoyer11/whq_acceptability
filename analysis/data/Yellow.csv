@@ -1,0 +1,150 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q21,Q22_1,Q22_2,Q22_3,Q24,Q27,Q33,Q34,Q35,Q36,Q37,Q38,Q39,Q40,Q41,Q42,Q43,Q44,Q45,Q46,Q47,Q48,Q49,Q50,Q51,Q52,Q53,Q54,Q55,Q56,Q57,Q58,Q59,Q60,Q61,Q62,Q63,Q64,Q65,Q66,Q67,Q68,Q69
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Rutgers Laboratory for Developmental Language Studies
+
+Acquisition, Development, and Representation of Linguistic Knowledge
+
+ 
+
+
+INFORMED CONSENT FORM – Adults, Subject Pool, Online
+
+You are invited to participate in a research study that is being conducted by Dr. Kristen Syrett, an Assistant Professor in the Department of Linguistics and the Center for Cognitive Science at Rutgers University – New Brunswick. The purpose of this research is to investigate what children and adults understand about aspects of meaning in their native language and how this knowledge is acquired.
+
+ 
+
+In this study, we will ask you to read some words or sentences, or look at some images or videos. You will be asked to provide your judgment about these materials, make a selection given certain instructions, or follow the experimenter’s directions to perform some action with the materials. Your reaction time may be monitored. You may provide your consent to be audio and/or video-recorded. Over the course of this particular study, approximately 20 to 100 participants will participate. The study lasts between 20 and 45 minutes. 
+
+ 
+
+You will receive course credit (extra credit or points towards the fulfillment of your experimental requirement) for your participation in this study, according to the guidelines of the subject pool and/or your instructor. If you choose not to participate, you will be offered other opportunities to earn experimental course credit and/or extra credit in your course, such as video viewing or a short report. These guidelines will be provided by your instructor and may be listed on your course syllabus.
+
+ 
+
+Participation in this study is voluntary. You will not be compensated for your participation in this study. While your linguistic skills are not likely to improve from participation in this research, your responses may provide us with valuable data about the process of child language acquisition and development, and the nature of the adult grammar and language processor. 
+
+ 
+
+There are no foreseeable risks to participation in this study. You may choose not to participate, and you may withdraw at any time during the study procedures without any penalty to you. In addition, you may choose not to answer any questions with which you are not entirely comfortable.
+
+ 
+
+This research is confidential. Confidential means that we will collect information from you, including your gender, age, race and ethnicity, other expertise, and possibly your IP address, which will remain on file. This information will not be used to identify you in any way, and your IP address will not be used for any purposes other than to ensure that you do not participate in the same study twice. We use this information to understand more about our findings and the factors involved in language development and comprehension. Responses and demographic information are collected for all participants and analyzed to report trends across participants. This information will be stored in such a manner that some link between your identity and responses in the research will exist. You will be assigned an arbitrary code that will be associated with your data. Should an individual response be used as example, personal identifying information will be removed beforehand. Please note that we will keep this information confidential by limiting access to the research data and keeping it in a secure location in our lab. All electronic files are password-protected. 
+
+ 
+
+Our research team and the Institutional Review Board at Rutgers University are the only parties that will be allowed to see the data, except as may be required by law. If a report of this study is published, or the results are presented at a professional conference, no results that can be linked to an individual will be presented. All study data will be kept for the duration of the study and its publication for a finite period of time between three and ten years. 
+
+ 
+
+If you have any questions about the study procedures, you may contact Dr. Syrett at 
+
+Rutgers Center for Cognitive Science (RuCCS)
+
+152 Frelinghuysen Road, Psychology Building Addition
+
+Piscataway, NJ 08854
+
+(848) 445-1600 
+
+kristen.syrett@rutgers.edu 
+
+ 
+
+If you have any questions about your rights as a research subject, you may contact the Sponsored Programs Administrator at Rutgers University at:
+
+Institutional Review Board , Rutgers University, the State University of New Jersey
+
+Liberty Plaza / Suite 3200
+
+335 George Street, 3rd Floor
+
+New Brunswick, NJ 08901
+
+Phone: 732-235-9806 
+
+humansubjects@orsp.rutgers.edu
+
+ 
+
+You may print a copy of this consent form for your records.
+
+ 
+
+ 
+
+This informed consent form was approved by the Rutgers University Institutional Review Board for the Protection of Human Subjects on 3/22/2016; approval of this form expires on 3/21/2017.
+
+
+ 
+
+
+ 
+
+Please indicate below if you agree to participate in this research study:",Please fill out the following fields. - First name,Please fill out the following fields. - Last name,Please fill out the following fields. - 4-digit SONA ID,"Example story.
+
+
+
+The setting: decorating an apartment
+
+B and M went to the store to buy a lamp for their apartment.
+
+When they got to the check-out, M realized that she forgot to bring her wallet.
+
+B went to pull his out, but realized he also forgot it at the apartment.
+
+
+
+The cashier reports, ""B and M remembered to bring their wallets to the store.""
+
+Is the cashier right?","Example story.
+
+
+
+The setting: a search for a book
+
+R is looking for a rare book on sperm whales.
+
+He drove all over town, to three different libraries, without success.
+
+Finally, he found the book in a used book store in a remote section of town.
+
+His friend P calls to ask whether he finally found the book he was looking for.
+
+R responds, ""I did!""
+
+
+
+P reports, ""R found the book he was looking for.""
+
+Is P right?",MAF-predict-where-find,MAF-predict-who-recruit,MAF-predict-where-hide,MAF-predict-who-call,MATF-predict-where-view,MATF-predict-where-bury,MATF-predict-who-interview,MATF-predict-who-hire,MST-predict-where-store,MST-predict-where-sell,MST-predict-who-invite,MST-predict-who-select,MAT-predict-where-locate,MAT-predict-where-display,MAT-predict-who-ask,MAT-predict-who-contact,MST-know-where-locate,MST-know-where-display,MST-know-who-ask,MST-know-who-contact,MAT-know-where-find,MAT-know-where-hide,MAT-know-who-recruit,MAT-know-who-call,MAF-know-where-view,MAF-know-where-bury,MAF-know-who-interview,MAF-know-who-hire,MATF-know-where-store,MATF-know-where-sell,MATF-know-who-invite,MATF-know-who-select,Which of the following creatures is not a mammal?,Which of the following countries is not in Africa?,Which of the following people is not a comedian?,Which of the following people is not a US president?,Which of the following properties don't all bugs have?
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID21""}","{""ImportId"":""QID22_1""}","{""ImportId"":""QID22_2""}","{""ImportId"":""QID22_3""}","{""ImportId"":""QID24""}","{""ImportId"":""QID27""}","{""ImportId"":""QID33""}","{""ImportId"":""QID34""}","{""ImportId"":""QID35""}","{""ImportId"":""QID36""}","{""ImportId"":""QID37""}","{""ImportId"":""QID38""}","{""ImportId"":""QID39""}","{""ImportId"":""QID40""}","{""ImportId"":""QID41""}","{""ImportId"":""QID42""}","{""ImportId"":""QID43""}","{""ImportId"":""QID44""}","{""ImportId"":""QID45""}","{""ImportId"":""QID46""}","{""ImportId"":""QID47""}","{""ImportId"":""QID48""}","{""ImportId"":""QID49""}","{""ImportId"":""QID50""}","{""ImportId"":""QID51""}","{""ImportId"":""QID52""}","{""ImportId"":""QID53""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55""}","{""ImportId"":""QID56""}","{""ImportId"":""QID57""}","{""ImportId"":""QID58""}","{""ImportId"":""QID59""}","{""ImportId"":""QID60""}","{""ImportId"":""QID61""}","{""ImportId"":""QID62""}","{""ImportId"":""QID63""}","{""ImportId"":""QID64""}","{""ImportId"":""QID65""}","{""ImportId"":""QID66""}","{""ImportId"":""QID67""}","{""ImportId"":""QID68""}","{""ImportId"":""QID69""}"
+2017-10-04 10:25:00,2017-10-04 10:48:32,IP Address,128.6.51.67,100,1412,True,2017-10-04 10:48:33,R_1LZp8cpJlNnpddk,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Theresa,Demkovitz,10723,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Chickens,France,Tina Fey,Lady Gaga,Six legs
+2017-10-05 12:03:59,2017-10-05 12:25:58,IP Address,128.6.51.67,100,1318,True,2017-10-05 12:25:58,R_12gUokGjDSrspYM,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Katherine,Garcia,10918,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-05 12:45:46,2017-10-05 13:21:19,IP Address,128.6.51.75,100,2133,True,2017-10-05 13:21:19,R_es8JVrtt4qJgZkV,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Brianne,"Micele ",10054,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Humans,France,Tina Fey,Lady Gaga,Fur
+2017-10-05 13:23:22,2017-10-05 13:45:34,IP Address,128.6.51.75,100,1332,True,2017-10-05 13:45:34,R_7VsFxNT9Wt2oRZX,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Samuel,Rong,10315,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-05 13:34:02,2017-10-05 13:53:38,IP Address,128.6.51.67,100,1176,True,2017-10-05 13:53:39,R_1hFol7uK96HdV6z,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Mahnoor,Ansari,0042,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-05 13:46:29,2017-10-05 14:07:36,IP Address,128.6.51.75,100,1267,True,2017-10-05 14:07:36,R_eSaFQYD07gtMKMJ,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Daniel,Bezden,10348,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-05 13:56:38,2017-10-05 14:11:23,IP Address,128.6.51.67,100,884,True,2017-10-05 14:11:23,R_3KZ9flbHk3L7Svp,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Nathan,Ritchie,11389,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-05 14:12:02,2017-10-05 14:32:33,IP Address,128.6.51.75,100,1231,True,2017-10-05 14:32:33,R_0pvhPZ1mm50HUOh,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Adriann,Lai,11503,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-05 14:31:48,2017-10-05 14:58:56,IP Address,128.6.51.67,100,1627,True,2017-10-05 14:58:57,R_21umoNT3Y9x35QT,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Dana,Weiss,10627,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Six legs
+2017-10-06 11:39:18,2017-10-06 11:54:32,IP Address,128.6.51.27,100,913,True,2017-10-06 11:54:32,R_sTLBELsbJy15CSZ,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Elise,Doubt,11143,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-06 11:37:01,2017-10-06 11:56:45,IP Address,128.6.51.75,100,1184,True,2017-10-06 11:56:45,R_6xLJfijC0w2UD6B,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Neil,Shah,11905,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Wolves,France,Conan O'Brien,Lady Gaga,Fur
+2017-10-06 11:57:50,2017-10-06 12:15:34,IP Address,128.6.51.75,100,1064,True,2017-10-06 12:15:34,R_6rmtcDtWZjOtw45,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Ashley,Calusin,10033,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-06 12:17:43,2017-10-06 12:48:18,IP Address,128.6.51.75,100,1835,True,2017-10-06 12:48:18,R_0CKtC1fEAqEv2Gp,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Pratibha,Nyshadham,10654,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-06 12:49:30,2017-10-06 13:17:14,IP Address,128.6.51.75,100,1664,True,2017-10-06 13:17:14,R_2gj9apW6JxwKqPz,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Isabella,Lu,10018,No,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-06 13:18:46,2017-10-06 13:58:22,IP Address,128.6.51.75,100,2376,True,2017-10-06 13:58:22,R_73QENqknYbcGNWR,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,"Seta ",Kelly,10561,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Chickens,France,Tina Fey,Lady Gaga,Six legs
+2017-10-06 12:06:12,2017-10-06 14:18:02,IP Address,128.6.51.27,100,7909,True,2017-10-06 14:18:02,R_OuHzNKycPh9gB0d,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Laura,Faraci,11236,No,Yes,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-06 13:59:10,2017-10-06 14:44:32,IP Address,128.6.51.75,100,2722,True,2017-10-06 14:44:32,R_0BC6sRYMVtPHrjn,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Hsin,Fan,10834,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Chickens,France,,Lady Gaga,Fur
+2017-10-06 14:36:24,2017-10-06 14:50:23,IP Address,128.6.51.27,100,839,True,2017-10-06 14:50:23,R_bKkd8sK0B6w4xa1,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Paula,Rocha,10477,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-06 11:06:44,2017-10-06 14:55:59,IP Address,128.6.51.67,100,13754,True,2017-10-06 14:55:59,R_u2rVo7y3bWI2xxv,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Joyce,Jo,10057,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-06 14:35:43,2017-10-06 14:58:48,IP Address,128.6.51.76,100,1384,True,2017-10-06 14:58:48,R_8kovBLLgbN2IjzH,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Brooke,Ambert,11803,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-09 08:06:39,2017-10-09 08:16:53,IP Address,128.6.51.75,100,614,True,2017-10-09 08:16:53,R_78Mho6kpHVlAqwt,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Rhea,Tata,10012,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-09 08:18:31,2017-10-09 08:53:34,IP Address,128.6.51.75,100,2103,True,2017-10-09 08:53:34,R_1zxolWZy64JDPhj,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,ZHEN,YU,10189,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Chickens,France,Amy Poehler,Lady Gaga,Fur
+2017-10-09 08:54:55,2017-10-09 09:33:59,IP Address,128.6.51.75,100,2344,True,2017-10-09 09:33:59,R_ewX48Bn7GyCzYrj,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Dayna,Hagewood,10846,No,Yes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Six legs
+2017-10-09 09:13:29,2017-10-09 09:52:02,IP Address,128.6.51.67,100,2313,True,2017-10-09 09:52:03,R_bOy6Vg2fbIcaxnb,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,veronica,velez,10048,No,Yes,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Chickens,France,Tina Fey,Lady Gaga,Six legs
+2017-10-09 09:52:48,2017-10-09 10:27:39,IP Address,128.6.51.67,100,2090,True,2017-10-09 10:27:39,R_1TYB8r5HeyrLQiJ,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Kimberley,Glover,11455,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-09 09:35:20,2017-10-09 10:40:24,IP Address,128.6.51.75,100,3904,True,2017-10-09 10:40:24,R_b1KWYMcacgnkqGN,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Maria,Nicholas,10150,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-09 10:28:56,2017-10-09 10:45:10,IP Address,128.6.51.67,100,974,True,2017-10-09 10:45:11,R_3EKHwvDBHV2mLz5,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Neha,Makwana,11380,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-11 09:51:07,2017-10-11 10:29:47,IP Address,128.6.51.67,100,2319,True,2017-10-11 10:29:47,R_BDk4DLbXsZikjrr,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Abeer,Mumtaz,10144,No,Yes,No,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-11 10:31:57,2017-10-11 10:48:34,IP Address,128.6.51.75,100,997,True,2017-10-11 10:48:34,R_7UGNlaIRVtoO6mp,,,,,40.448394775391,-74.443099975586,anonymous,,I DO agree to participate in this research study and will CONTINUE to the next page.,Alyssa,Dicker,11320,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,Yes,,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Fur
+2017-10-13 12:28:59,2017-10-13 12:47:30,IP Address,128.6.51.67,100,1110,True,2017-10-13 12:47:30,R_2zOSo6j57vgQJcB,,,,,40.448394775391,-74.443099975586,anonymous,EN,I DO agree to participate in this research study and will CONTINUE to the next page.,Brianna,Cardaci,10630,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,Chickens,France,Angela Merkel,Lady Gaga,Six legs

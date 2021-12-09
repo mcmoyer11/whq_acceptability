@@ -1,0 +1,313 @@
+
+# Follow-up to Experient 1, online acceptability judgement task
+# Morgan Moyer
+# last edit: Jan 3, 2017
+
+# scenarios for predict-where and predict-who
+# infinite (-fin)
+# MA-True
+
+
+
+########################################################################
+
+# predict-where-find1
+# -fin
+# MA-T
+# toys
+
+Sparky the dog buried his toys in the backyard last week. He hid them so well that now he cannot seem to find any. A neighbor, Jill, comes over to help Mary, Sparky's owner, find the toys in the yard. Jill asks Mary to guess where they are hidden.
+
+Mary says, "Behind the shed, next to the large tree, under the swing set, and under the deck."
+
+After hours of searching, they find the toys behind the shed, next to the large tree, under the swing set, and under the deck. No toys were in the middle of the yard, on the side of the house, or near the mailbox.
+
+Jill reports, "Mary predicted where to find the toys."
+
+
+########################################################################
+
+
+
+# predict-where-view1
+# -fin
+# MA-T
+# nyc
+
+John and his friend Bill are traveling from across the country and would like to visit New York City. Bill wants to find the perfect place to take the perfect cityscape picture. John asks Bill what he thinks.
+
+Bill says, "From the GW bridge, the Brooklyn Bridge and the top of the Empire State Building."
+
+They go to those three places and take pictures, and also to Liberty State Park. The pictures from the GW bridge, the Brooklyn Bridge and the top of the Empire State Building came out wonderful, but the pictures from Liberty State Park were not good.
+
+John says, "Bill predicted where to view the city."
+
+Is John right?
+
+
+########################################################################
+
+
+# predict-who-recruit1
+# -fin
+# MA-T
+# sorority
+
+Jenna is in a sorority and is in charge of recruitment this year. She hopes to recruit girls who have a lot to contribute to the organization. This year, they have four pledges: Mary, Susan, Britney, and Shiela. Jenna and her friend Sam are wondering who will be the best sisters.
+
+Sam says, "Susan, Britney and Shiela."
+
+Jenna ends up recruiting all four girls, but it turns out Susan, Britney and Shiela become really great members of the sorority, but Mary becomes a huge trouble-maker and gives the sorority a bad reputation.
+
+Jenna reports, "Sam predicted who to recruit for the sorority."
+
+Is Jenna right?
+
+
+########################################################################
+
+
+# predict-who-interview1
+# -fin
+# MA-T
+# substitute
+
+The principle and vice principle at Mainland Regional needs to find a long-term substitute for Sally who is parting for maternity leave. They have three interview spots, but five applicants: Henry, Spencer, Tracey, Jordan, and Melissa. The vice principle asks Sally to guess who will be interviewed.
+
+Sally says, "Henry, Spencer, Tracey."
+
+The principle ends up asking Henry, Spencer and Tracey, but not Jordan and Melissa.
+
+The vice principle reports, "Sally predicted who to interview for the job."
+
+Is the vice principle right?
+
+
+########################################################################
+
+
+
+# predict-where-display1
+# -fin
+# MA-T
+# art
+
+The Center Hall of Art is a very prestigious hall where only the most high quality art is ever displayed. Dan is excited because he has worked very hard on his paintings and is extremely excited to be told that it has been chosen to be displayed in the Center Hall of Art. Dan can choose three out of five places to display his paintings: the front foyer, in the downstairs lobby, and the room with the velvet curtains, the back room, and the room with the blue lights. Dan asks his dad where he thinks the paintings will be most viewed.
+
+Dan's dad says, "In the front foyer, the room with the velvet curtains, and the room with the blue lights."
+
+Dan follow's his dad's advice. It turns out that those three rooms had the highest traffic, while the downstairs lobby, and the back room had much less traffic.
+
+Dan reports, "Dad predicted where to display my paintings."
+
+Is Dan right?
+
+
+########################################################################
+
+# predict-who-invite1
+# -fin
+# MA-T
+# afterparty
+
+It's prom season, and Aaron needs to decide who to ask to come to his afterparty. His parents are going out of town, but he doesn't want to invite any friend who will make a big mess and reck the house. He is deciding between Michelle, Kathy, Stephen, Cassie and Sue. He asks his friend Jordy.
+
+Jordy says, "Michelle, Kathy and Stephen."
+
+Aaron invites those three and also Cassie. Cassie ends up accidentally breaking a priceless vase, but the rest are perfectly well-behaved.
+
+Aaron reports, "Jordy predicted who to invite to the afterparty."
+
+Is Aaron right?
+
+########################################################################
+
+
+
+# predict-who-ask1
+# -fin
+# MA-T
+# advice
+
+Tim needs some advice about what he should do after high school because he's not sure about going to college just yet. He has several friends who like to give advice: Jim, Kate, Fran, Jess, and Connie. He isn't sure which ones will give good advice so he asks his friend Jen who to ask.
+
+Jen says, "Jim, Kate, and Fran."
+
+Tim asks all five, but only Jim, Kate and Fran gave good advice, while Jess and Connie gave bad advice.
+
+Tim reports, "Jen predicted who to ask for advice."
+
+Is Tim right?
+
+########################################################################
+
+
+# predict-where-store1
+# -fin
+# MA-T
+# dishes
+
+Dean and Annie are preparing food for a dinner party with several of their close friends. They've cooked many dishes already, and need to find room to keep them until the evening. There are several candidate places: on the kitchen chairs, in the pantry, in the upstairs refrigerator, in the downstairs refrigerator, and on the kitchen counter. Dean asks Annie where to store the dishes.
+
+Annie says, "On the kitchen chairs, in the pantry, and in the upstairs refrigerator."
+
+As it turns out, the only places with available space are on the kitchen chairs, in the pantry and in the upstairs refrigerator.
+
+Dean reports, "Annie predicted where to store the dishes."
+
+Is Dean right?
+
+
+########################################################################
+
+
+# predict-where-locate1
+# -fin
+# MA-T
+# petra
+
+For a summer trip, a Meg and Xavier friends are travelling to Petra in Jordan. Petra, an ancient city, has walls surrounding the city, so you can only enter at certain places. Since it's in the middle of the desert, entrances can be at points in any of the cardinal directions: North, South, East, West, and the midpoints between two, Northwest, Northeast, Southwest, Southeast. 
+
+Meg says, "Southeast, East, and Northwest."
+
+As it turns out, the entraces are at the Southeast, East and Northwest points, but there are no entrances at the other points.
+
+Xavier reports, "Meg predicted where to locate the entrances."
+
+Is Xavier right?
+
+
+########################################################################
+
+
+
+# predict-where-hide1
+# -fin
+# MA-T
+# chocolate
+
+Davey eats too much chocolate. He went to Costco the other day and bought a bulk package of Ferrer Roche. He asks his friend Mackenzie to hide the chocolate for him. Mackenzie asks her friend Ruth where to hide the chocolate. 
+
+Ruth says, "In the dresser drawers, in the linnen closet, and inside Davey's suitcase."
+
+Mackenzie hides the chocolate in the dresser drawers, in the linnen closet and inside Davey's suitcase, but also in the freezer and in Davey's desk. Davey finds the chocolate in the freezer and in the desk, but not in the other places.
+
+Mackenzie reports, "Ruth predicted where to hide the chocolate."
+
+Is Mackenzie right?
+
+########################################################################
+
+# predict-where-bury1
+# -fin
+# MA-T
+# conspiracy
+
+FBI Special Agents Mulder and Scully are looking for evidence that the government is trying to cover-up the existence of aliens. They have collected several key pieces proving the existence of a government cover-up. Now they must bury the evidence so that government agents cannot find and destroy it. They are considering the woods behind Mulder's apartment, Scully's garden, the bushes outside the FBI offices, and Rock Creek Park. Mulder asks Scully where to bury the evidence.
+
+Scully says, "In Rock Creek Park, and in the bushes outside the FBI office."
+
+They decided to follow Scully's idea. As it turns out, the government agents did search the woods behind Mulder's apartment and Scully's garden. They did not search Rock Creek Park or the bushes outside the FBI office.
+
+Mulder reports, "Scully prediced where to bury the evidence."
+
+Is Mulder right?
+
+
+
+########################################################################
+
+
+# predict-who-call1
+# -fin
+# MA-T
+# gnomes
+
+Ralph and Ortcutt are gardiners. Their garden is festively decorated with garden gnomes, for which they have a particular predilection. One day, they notice that their gnomes have been vandalized. They are considering who to call: The Society for Garden Well-Being, The National Gnome Association, Gnomes Annonymous, the Police, and the American Society for the Prevention of Cruelty to Gnomes. Ralph asks Ortcutt who he thinks they should call.
+
+Ortcutt says, "The Police, the American Society for the Prevention of Cruelty to Gnomes, and Gnomes Annonymous."
+
+Ralph calls all five places, but as it turns out, the only organizations that deal with garden varieties of vandalism are the Police, the American Society for the Prevention of Cruelty to Gnomes, and Gnomes Annonymous. The other two organizations express their condolences and abhorrance of vandalism, but offer no further support.
+
+Ortcutt reports, "Ralph predicted who to call about the vandalism."
+
+Is Ortcutt right?
+
+########################################################################
+
+
+# predict-who-hire1
+# -fin
+# MA-T
+# florist
+
+A local florist is looking to hire new employees. Since it is the summer, many of the employees hired around this time will quit when the summer ends. However, the shop is not just looking for seasonal employees. This year, they have narrowed it down to five applicants: Morgan, Clara, Jackson, Dante, and Colton. Marta, the manager, asks Eliana, her assistant.
+
+Eliana says, "Morgan, Clara, and Jackson."
+
+Marta ends up hiring all five, but only Morgan, Clara, and Jackson end up staying on for several years at the shop. The other two leave at the end of the summer.
+
+Marta reports, "Eliana predicted who to hire for the job."
+
+Is Marta right?
+
+
+########################################################################
+
+
+# predict-who-select1
+# -fin
+# MA-T
+# stem
+
+A local University is starting a STEM scholarship program for female high school students. Maggy is on the committee to decide which students are eligible. She has six bright students she is considering: Anna, Brenda, Charlie, Cathy, Denise and Tanisha. She can only select four of them, so she asks the guidance counselor, Frank, who to select.
+
+Frank says, "Cathy, Denise, and Tanisha."
+
+Maggy hires Cathy Denise, Tanisha, and Charlie. As it turns out, the first three thrive in the program, and become really successful in their later academic careers. Charlie, on the other hand, quits the program mid-way through because she stopped participating without explanation.
+
+Maggy reports, "Frank predicted who to select for the scholarship."
+
+Is Maggy right?
+
+########################################################################
+
+
+# predict-where-sell1
+# -fin
+# MA-T
+# orchids
+
+Andy grows rare orchids, but he's never sold them before. He's deciding between several places to sell them: a famous orchid show, local florists, Ikea, the grocery store. He asks his orchid guru, Mr. T, where to sell the orchids.
+
+Mr. T says, "The orchid show and the local florists."
+
+As it turns out, Andy plays it safe and sets up contracts to sell at all four places. However, since his orchids are rare and expensive, they only profitably sell at the orchid show and at the local florists.
+
+Andy reports, "Mr. T predicted where to sell the orchids."
+
+Is Andy right?
+
+
+
+########################################################################
+
+
+# predict-who-contact1
+# -fin
+# MA-T
+# surprise
+
+Jafari and Marjane are planning a surprise party for their mother. They want to ask several of her friends to help out. They are considering: Susan, Anita, Simone, and Hazel. The problem is that one of their mother's friends is a huge loud mouth and will probably let the secret slip. Jafari asks Marjane who to contact for the party.
+
+Marjane responds, "Anita, Simone, and Hazel."
+
+Jafari ends up asking all four ladies, because the more the merrier, right? As it turns it, Susan was the loud mouth, and accidentally cues their mother into the surprise.
+
+Jafari reports, "Marjane predicted who to contact about the party."
+
+Is Jafari right?
+
+
+
+

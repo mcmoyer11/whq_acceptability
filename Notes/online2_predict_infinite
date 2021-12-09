@@ -1,0 +1,818 @@
+
+# Follow-up to Experient 1, online acceptability judgement task
+# Morgan Moyer
+# last edit: Jan 3, 2017
+
+# scenarios for predict-where and predict-who
+# infinite (-fin)
+# MA-True
+
+
+
+
+########################################################################
+
+# predict-where-find1
+# -fin
+# MA-T
+# 
+
+Sparky the dog buried his bone in the backyard last week. He hid the bone so well that now he cannot seem to find it. A neighbor comes over to help the Sparky’s owner find the bone in the yard. Based on the places Sparky usually hides his bones, they predict where to find it.
+
+ Behind the shed, next to the large tree, under the swing set, and under the deck are good predictions where to find the bone.
+
+
+In the middle of the yard, on the side of the house, and near the mailbox are not.
+
+The neighbor asks Sparky’s owner to predict where to find the bone.  
+
+Sparky’s owner responds: Behind the shed, next to the large tree, under the swing set, and under the deck.
+
+########################################################################
+
+# predict-where-find2
+# -fin
+# MA-T
+# 
+
+Billy and his neighbors are playing hide and seek in the park. It is his turn to close his eyes and count to ten. After he is finished counting, he sees his classmate Jimmy, and asks Jimmy to help him predict where to find his friends.
+
+ Under the slide, in the tunnel, behind the swings, and in the tree are good predictions where to find Billy’s friends.
+
+In the parking lot, on the jungle gym, and the baseball fields are not.
+
+
+ Billy asks his classmate Jimmy to predict where to find his friends.
+
+
+ Jimmy responds: Under the slide, in the tunnel, behind the swings, and in the tree
+
+
+
+########################################################################
+
+# predict-where-find3
+# -fin
+# MA-T
+# 
+
+Prom is approaching quickly, and Sally needs to find the perfect dress. She is willing to search all over to find one that is dazzling. Her older sister, Amy, is a good shopper, so Sally asks Amy to predict where to find the perfect dress.
+
+The boutique in town, the mall, the wedding shop, and online are all good predictions where to find the perfect prom dress.
+
+Kohl’s, the Sports Store, and Wal-Mart are not.
+
+Sally asks Amy to predict where to find the perfect prom dress.
+
+Amy responds: The boutique in town, the mall, the wedding shop, and online
+
+
+########################################################################
+
+# predict-where-find4
+# -fin
+# MA-T
+# 
+
+Mark recently lost his job due to bankruptcy in the business firm he worked at. He needs to support his family and find a new job as soon as possible. His wife, Allison is helping Mark with the job search and is making predictions as to where Mark may find a new job.
+
+Amazon, Google, Netflix and Adobe are good predictions where to find a new job.
+
+
+Aeropostale, Blockbuster, and Sony Ericsson are not. 
+
+Mark asks Allison to predict where to find a new job.
+
+Allison responds: Amazon, Google, Netflix and Adobe
+
+
+########################################################################
+
+# predict-where-view1
+# -fin
+# MA-T
+# 
+
+John and his friend Bill are traveling from across the country and would like to visit New York City. Bill wants to find the perfect place to view the Statue of Liberty, so he can take the best pictures possible. Bill is helping John predict where they will be able to find a nice view of the Statue of Liberty.
+
+The Brooklyn Bridge, tour boat, Liberty State Park, and The Battery in Lower Manhattan are good predictions where to find a nice view of the Statue of Liberty.
+
+
+Times Square, Central Park, and Broadway Street are not.
+
+ John asks Bill to predict where to find a nice view of the Statue of Liberty.
+
+
+ Bill responds: The Brooklyn Bridge, tour boat, Liberty State Park, and The Battery in Lower Manhattan
+
+
+########################################################################
+
+# predict-where-view2
+# -fin
+# MA-T
+# 
+
+Mary has a special bucket list item she wishes to check off her list, and that is to view the northern lights. She is willing to travel wherever she will be able to have a great view of the lights. Her friend, Abby, is helping Mary predict where to find the best view.
+
+
+Alaska, Denmark, Scotland, and Greenland are good predictions where to find the best view of the northern lights.
+
+
+New York, Texas, and Arizona are not.
+
+Mary asks Abby to predict where to find the best view of the northern lights.
+
+
+Abby responds: Alaska, Denmark, Scotland, and Greenland  
+
+
+########################################################################
+
+# predict-where-view3
+# -fin
+# MA-T
+# 
+
+Zack is going on vacation to California and wants to see the Hollywood sign. He hopes to find the best place possible to view the sign. His brother, Joe, lives in California and helps Zack predict where to go to find the best view.
+
+Beachwood Canyon, Lake Hollywood Park, The Griffith Observatory, and Mulholland Drive are good predictions where to view the Hollywood sign.
+
+Downtown, Runyon Canyon Park, and Mount Lee (you will get caught by the cops for being too close) are not.
+
+
+ Zack asks Joe to predict where to view the Hollywood sign.
+
+
+ Joe responds: Beachwood Canyon, Lake Hollywood Park, The Griffith Observatory, and Mulholland Drive
+
+
+
+########################################################################
+
+# predict-where-view4
+# -fin
+# MA-T
+# 
+
+Sarah has to attend a play of her choice and write a paper about it for her acting class. She wants to view a musical and tries to predict where one may be playing. Her classmate Jess tries to help her with her predictions.
+
+The Sate Theater, NYC Broadway, The Performing Arts Center, and the local campus theater are all good predictions where to view a musical.
+
+
+The movie theater, Children’s Theater, and Dance Academy are not.
+
+Sarah asks Jess to predict where to view a musical for their class assignment.
+
+
+Jess responds: The Sate Theater, NYC Broadway, The Performing Arts Center, and the local campus theater
+
+
+########################################################################
+
+# predict-who-recruit1
+# -fin
+# MA-T
+# 
+
+Jenna is in a sorority and is in charge of recruitment this year. She hopes to recruit girls who have a lot to contribute to the organization. She works together with her friend Jasmine to predict who to recruit for the semester.
+
+Girls with good character, good grades, the same values, and have a passion for volunteering are good predictions who to recruit for the sorority.
+
+
+Girls who do not have good grades, manners, or morals are not.
+
+Jenna asks Jasmine to predict who to recruit for their sorority
+
+
+Jasmine responds: Girls with good character, good grades, the same values, and have a passion for volunteering
+
+
+########################################################################
+
+# predict-who-recruit2
+# -fin
+# MA-T
+# 
+
+Brielle is a recruiter for the soccer team and is attempting to gather new players for the upcoming soccer season. She would like to recruit the best players, as this upcoming season is an important one. She works together with the coach to predict who to recruit for the team.
+
+Athletes with speed, good footwork, ambition, and experience are good predictions who to recruit for the soccer team.
+
+
+Athletes who is sluggish, inexperienced, and lacks sportsmanship are not.
+
+Brielle asks he coach to predict who to recruit for the soccer team.
+
+
+The coach responds: Athletes with speed, good footwork, ambition, and experience
+
+
+########################################################################
+
+# predict-who-recruit3
+# -fin
+# MA-T
+# 
+
+Jimmy’s mom, Wendy, is in charge of the PTA committee and needs to recruit parents for the upcoming school year. She wants to choose parents carefully so she can ensure a successful year. She works together with the recruitment chairman to predict who to recruit for next year’s committee.
+
+Parents who are involved, good leaders, very responsible, and organized are suitable predictions who to recruit for the PTA committee.
+
+
+Parents who are uninvolved, bossy, and are not able to compromise are not.
+
+Wendy asks the recruitment chair to predict who to recruit for next year’s PTA committee.
+
+
+The recruitment chairman responds: Parents who are involved, good leaders, very responsible, and organized
+
+
+########################################################################
+
+# predict-who-recruit4
+# -fin
+# MA-T
+# 
+
+Cindy is the coach of the dance team and is looking to recruit some new dancers. She wants the help of the dance captain to ensure that they recruit the best girls. They work together to predict who to recruit for the team.
+
+Girls with good balance, technique, choreography skills, and flexibility are suitable predictions who to recruit for the dance team.
+
+
+Girls with no rhythm, no skills, and no confidence are not.
+
+Cindy asks the dancers to predict who to recruit for the dance team
+
+
+The dance captain responds: Girls with good balance, technique, choreography skills, and flexibility
+
+########################################################################
+
+# predict-who-interview1
+# -fin
+# MA-T
+# 
+
+The principle at Mainland Regional needs to find a long-term substitute for a teacher who is parting for maternity leave. He needs to replace her with someone who is qualified to teach math. The principle meets with the superintendent to make some predictions as to who to interview.
+
+People who are well educated in math, has previous teaching experience, outgoing personality, and discipline are good predictions who to interview for the position.
+
+
+People who are not good at math, gets nervous easily, and lack respect are not.
+
+The principle asks the superintendent to predict who to interview for the teaching position
+
+The superintendent responds: People who are well educated in math, has previous teaching experience, outgoing personality, and discipline
+
+
+########################################################################
+
+# predict-who-interview2
+# -fin
+# MA-T
+# 
+
+The psychologist at a local primary school is looking to hire a psychology intern. The application process is competitive, so there is a need to conduct interviews. The psychologist and her supervisor predict who they should interview.
+
+Students with a psychology major, good grades, experience with kids, and a caring personality are good predictions who to interview for the internship.
+
+
+Students with failing grades, careless attitude, and no psychology major are not.
+
+The psychologist asks her supervisor to predict who to interview for the internship
+
+
+The supervisor responds: Students with a psychology major, good grades, experience with kids, and a caring personality
+
+
+########################################################################
+
+# predict-who-interview3
+# -fin
+# MA-T
+# 
+
+Carissa is starting college soon and is looking for a roommate. She wants to interview potential roommates to make sure she will get along with them. Carissa and her best friend Kim predict who to interview.
+
+Girls with respect, a kind heart, clean habits, and friendly personality are good predictions who to interview.
+
+
+Girls with no morals, are selfish, and jealous are not.
+
+Carissa asks Kim to predict who to interview for a potential roommate
+
+
+Kim responds: Girls with respect, a kind heart, clean habits, and friendly personality
+
+
+########################################################################
+
+# predict-who-interview4
+# -fin
+# MA-T
+# 
+
+Travis is the admissions director for a college and is in charge of interviewing students for the engineering program. Being that the program is so rigorous, he needs to make sure they accept the very best students. Travis and the Dean predict who to interview for the program.
+
+Students who are engaged, smart, active in extracurriculars, and have volunteer experience are good predictions who to interview.
+
+
+Students who are slow learners, do not participate, and have no self discipline are not.
+
+Travis asks the Dean to predict who to interview for admission into the engineering program.
+
+
+The Dean responds: Students who are engaged, smart, active in extracurricular, and have volunteer experience
+
+
+########################################################################
+
+# predict-where-sell1
+# -fin
+# MA-T
+# 
+
+Strawville is a very small town where it does not snow very often; however, when it does, almost every store in town is closed.
+
+Aerosole, Aldo, and Kate Spade are stores very nearby Strawville, where they sell a variety of shoes. Tori Burch, Old Navy, and Easy Spirit are stores that are not close by at all and do not sell a very good variety of shoes.
+3.	Veronica has been waiting for her glamorous shoes that perfectly match her birthday dress. She ordered them online, but there was a snowstorm that delayed the delivery, so she desperately needs a pair of nice shoes by tomorrow. Her and her mom think hard, but have to resort to guessing which stores that are close by will have her perfect shoes.
+4.	Veronica asks her mom to predict where similar shoes are sold nearby.
+5.	Her mom says, “Aerosole, Aldo, and Kate Spade are my best guesses as to where those shoes are sold.”
+
+
+########################################################################
+
+# predict-where-sell2
+# -fin
+# MA-T
+# 
+
+Halloween is coming up next week and everyone at Rutgers loves to dress up for it.
+2.	Zumiez, Spencers, and Hot Topic all sell different character costumes, while Abercrombie, Hollister, and American Eagle do not.
+3.	Sara wants to dress up as Pikachu for Halloween, but she is not really sure where she can go to find a costume. Her friend Laura dressed up as a Teenage Mutant Ninja Turtle last year, so she is trying to remember which stores sell character costumes.
+4.	Sara asks Laura to predict where a Pikachu costume is sold.
+5.	Laura says, “Zumiez, Spencers, and Hot Topic are all stores in which character costumes are sold, so they might have a Pikachu one.”
+
+
+########################################################################
+
+# predict-where-sell3
+# -fin
+# MA-T
+# 
+
+There are a few reliable websites that have humorous Christmas sweaters.
+2.	Amazon, JustSweaters, and HolidayOnline all have Christmas sweaters in stock, while JustFab, Etsy, and Pandala do not.
+3.	Kenny is going to his work’s Christmas sweater party and wants to make a good impression because his boss is very festive. He wants to order a Christmas sweater online, but neither he nor his girlfriend Ava, are sure where to order from.
+4.	Since Ava does more online shopping, Kenny asks Ava to predict where Christmas sweaters are sold online.
+5.	Ava says, “Amazon, JustSweaters, and HolidayOnline are likely websites where Christmas sweaters are sold.
+
+
+########################################################################
+
+# predict-where-sell4
+# -fin
+# MA-T
+# 
+
+There are only a few stores in the Bridgewater Commons Mall that sell Burberry Brit perfume.
+2.	Bloomingdales, Lord & Taylor, and Macys sell Burberry Brit perfume, while Wet Seal, Nordstrom, and PacSun do not.
+3.	Kristen’s birthday is coming up and all she asked her mom for is the Burberry Brit perfume because she heard it is being discontinued soon. Her mom has arrived at the mall, frantically searching for her daughter’s present, but can’t seem to find it, so she asks a sales associate to help her. The woman is unsure, but has heard about the perfume before.
+4.	Kristen’s mom asks the sales associate to predict where the perfume is sold.
+5.	The sales associate says, “I think Bloomingdales, Lord & Taylor, and Macys are stores where that perfume is sold.
+
+
+########################################################################
+
+# predict-where-display1
+# -fin
+# MA-T
+# 
+
+The Center Hall of Art is a very prestigious hall where only the most high quality art is ever displayed. There are numerous rooms in the building, some of which are used for social gatherings with minimal art displays to avoid accidents.
+2.	The art is typically displayed in the front room, in the downstairs lobby, and the room with the velvet curtains. It is not typically displayed in the back room, the room with the blue lights, and the room full of tables and chairs.
+3.	Dan has worked very hard on his painting and is extremely excited to be told that it has been chosen to be displayed in the Center Hall of Art. Dan and his dad, who is also a huge fan of the hall, hurry over to see Dan’s painting, but are confused when they cannot seem to find it.
+4.	Dan asks his dad to predict where his painting is displayed.
+5.	His dad says, “I have seen most of the paintings here in the same rooms, so the front room, the downstairs lobby, or the room with the velvet curtains, are probably where your beautiful painting is displayed.”
+
+
+########################################################################
+
+# predict-where-display2
+# -fin
+# MA-T
+# 
+
+Abercrombie has run out of red scarves to sell. There are only three left, but they are on display mannequins in the windows of the store in certain rooms, identified by the colors of the walls.
+2.	The red, blue, and green rooms have a scarf on a mannequin, while the yellow, purple, and orange rooms do not have any scarves on their mannequins.
+3.	Rachel really needs a red scarf to complete her New Year’s Eve outfit, so she comes in to Abercrombie and asks an associate if they have any left. She is told that they are on mannequins in certain rooms, but before the associate could tell her which rooms, her boss called her over to do something.
+4.	Rachel turns to her mom and asks her to predict where the scarves are displayed in the store.
+5.	Her mom says, “I think they are displayed in the red, blue, and green rooms.”
+
+
+########################################################################
+
+# predict-where-display3
+# -fin
+# MA-T
+# 
+
+There are a few good spots to put up a blow up snowman in the O’Harrings front yard, but the snowman just gets hidden in other spots.
+2.	In front of the stairs, the porch, and by the fence are all good spots to display the snowman, while the backyard, by the pond, and on the roof are not.
+3.	The O’Harrings live in a very festive neighborhood, where it is necessary that everyone decorates their house for the holidays. The kids were wondering where the big snowman that they see every year was displayed this year.
+4.	The kids ask their parents to predict where the blow up snowman is displayed this year.
+5.	Their parents respond, “Well, I am not sure, but I would assume it is displayed in front of the stairs, the porch, or by the fence because those are good spots for it.”
+
+
+
+########################################################################
+
+# predict-where-display4
+# -fin
+# MA-T
+# 
+
+The preschoolers always make cards for their parents on Valentine’s Day, and their parents are expected to hang these cards up somewhere in their houses.
+2.	The refrigerator, family room, and bedroom are all places where parents usually display their children’s art work. The sink, bathroom, and living room typically are not.
+3.	Michelle gave a very colorful card to her parents about a week ago and wants to guess where they hung it up.
+4.	Michelle asks her sister Maddie to predict where her card is displayed in the house.
+5.	Maddie says, “the refrigerator, family room, and bedroom are usually the rooms where our cards are displayed.
+
+
+
+########################################################################
+
+# predict-who-ask1
+# -fin
+# MA-T
+# 
+
+In South Regional High School, it is very important for seniors to have a date to their prom.
+2.	So far, Michelle, Kathy, and Steph are still waiting to be asked, while Cassie, Sue, and Gabby have already been asked.
+3.	Aaron goes to South Regional High School and needs to find a date to prom, but he is not sure who has already been asked and who is still available. He and his friend Jordy begin to guess who they believe has already been asked.
+4.	Aaron asks Jordy to predict who was not asked already.
+5.	Jordy says, “Michelle, Kathy, and Steph are probably a few of the girls who were not asked yet.” 
+
+
+########################################################################
+
+# predict-who-ask2
+# -fin
+# MA-T
+# 
+
+There are six new applicants for the new position at NBC Studios, but they only chose three to ask to come back for an interview. All of these applicants have applied through an internship program in one of their communications classes.
+Anna, Kim, and Olivia are asked to come back for an interview, while Ali, Mark, and Michael are not asked to co
+1.	Anna is waiting to check her email and is very nervous to find out whether she has been chosen to come back for an interview, so she debates with her friend who is also in her communications class, but has not applied for the internship, about who they think has been chosen.
+2.	 Anna asks her friend to predict who was asked to come back for an interview.
+3.	Her friend says, “ I believe that you, Kim, and Olivia are stellar students who were asked to come back.”
+
+
+########################################################################
+
+# predict-who-ask3
+# -fin
+# MA-T
+# 
+
+There are several waiters and waitresses working overlapping shifts at the Cheesecake Factory.
+2.	Brianne, Nathan, and Michelle are all asked to get an old man a glass of water. While Jim, Emily, and Bob are not.
+3.	The grumpy old man never gets his glass of water, so he complains to the manager of the Cheesecake Factory, who then wants to find out who he asked to get him that glass of water, but the man has no idea.
+4.	The manager asks the assistant manager, who knows the waiters and waitresses quite well, to please predict who was asked to get the old man a glass of water.
+5.	The assistant manager says, “I believe Brianne, Nathan, and Michelle were asked to get the water.”
+
+
+########################################################################
+
+# predict-who-ask4
+# -fin
+# MA-T
+# 
+
+There are six sales associates working at Forever 21 on Black Friday. The store is very busy and customers are being very impatient with their requests, but a few of the associates are being very lazy.
+2.	Morgan, Dana, and Crystal were all asked to go to the back and check for a size 27 in a pair of jeans customer, but they ignored her request. Sue, Hannah, and Parker were not asked.
+3.	The woman then asked a manager if anyone is in the back looking for her size, but the manager does not know who she asked, and neither does the woman.
+4.	The manager asks her most hardworking employee Megan to predict who was asked to retrieve the jeans and never looked for them.
+5.	Megan says, “I think that Morgan, Dana, and Crystal are all lazy workers who were asked to check for the jeans and did not.”
+
+
+########################################################################
+
+# predict-who-invite1
+# -fin
+# MA-T
+# 
+
+One of the water fountains in Polk Elementary School is broken, and the water ends up splashing on the students who try to drink out of it. All of the students know about this defective water fountain, so they all just know to never use it.
+2.	Adam, Mike, and Corey are invited to their popular friend Nancy’s Christmas Party, while Ralph, Sean, and Jordan are not.
+3.	Savanna is a new student at Polk Elementary School. She was not aware of the infamous defective water fountain, so she tried drinking from it and was instantly splashed all over the front of her pants. A lot of the mean boys made fun of her, and now she wants to know who is going to be at the Christmas Party, so she can decide whether or not she wants to go.
+4.	Savanna asks her classmate Amy to predict who is invited to Nancy’s Christmas party.
+5.	Amy says, “Adam, Mike, and Corey are the mean boys who are invited to the party.”
+
+
+########################################################################
+
+# predict-who-invite2
+# -fin
+# MA-T
+# 
+
+Drake is performing at PNC Bank Arts Center this weekend, and he is known to always invite guests to perform with him and surprise his audience at his concerts.
+2.	Lil Wayne, Future, and Nicki Minaj are invited to his show, while Meek Mill, T.I., and Ludacris are not.
+3.	Gianna and Lauren are very excited to go to a Drake convert this weekend and want to know who is going to make a surprise appearance.
+4.	Gianna asks Lauren to predict who is invited to perform with Drake.
+5.	Lauren says, “Based on who he typically invites to perform with him in New Jersey, I think Lil Wayne, Future, and Nicki Minaj are invited to his concert.
+
+
+########################################################################
+
+# predict-who-invite3
+# -fin
+# MA-T
+# 
+
+The Paris Hotel only accommodates seven people in a hotel room. The Vellucis have decided to go on vacation and stay in this hotel.
+2.	Sally, Erika, and Janice are all invited to come with the Vellucis, but Rachel, Rochelle, and Sandra are not.
+3.	Amanda’s parents told her a few weeks ago to invite three friends to come on vacation with their family and are now wondering who she ended up inviting.
+4.	Mr. Velluci asks his wife to predict who is invited to come with them.
+5.	Mrs. Velluci says, “I think Sally, Erika, and Janice are the friends who are invited to come with us because Amanda is closer with them than her other friends.
+
+
+########################################################################
+
+# predict-who-invite4
+# -fin
+# MA-T
+# 
+
+Marissa has been having some problems with her husband’s side of the family, but Thanksgiving is tomorrow and she has already agreed to go to his sister’s house for dinner.
+2.	Aunt Maggie, Uncle Jim, and Grandma Sue are invited to the dinner, while Uncle Rick, Aunt Joanne, and cousin James are not.
+3.	Marissa is debating just having Thanksgiving dinner at her own house with her husband and kids, so she wants to figure out who is probably invited to the dinner at her husband’s sister’s house to make her final decision.
+4.	Marissa asks her husband to predict who is invited to the dinner, based on who his sister has been in touch with in the past few weeks.
+5.	Her husband says, “I believe that Aunt Maggie, Uncle Jim, and Grandma Sue are the family members who are invited because they are closest with my sister.”
+
+
+########################################################################
+
+# predict-where-store1
+# -fin
+# MA-T
+# 
+
+Christmas is coming and everyone is getting presents ready for his or her loved ones. It is important that these presents are kept as a secret so two siblings are figuring out where to store presents for their parents. However, they need to find a place their parents wouldn’t look.
+Parents never look in the closet, the cabinet, and the garage. 
+They would look in the living room or under the Christmas tree. 
+The kids are plotting and the sister asks the brother to predict where a good hiding place is to store presents
+The brother asks the sister to predict where to store the presents in a place parents wouldn’t look 
+The sister replies: “the living room or under the Christmas tree are places where to store the presents where the parents would not look”
+
+
+########################################################################
+
+# predict-where-store2
+# -fin
+# MA-T
+# 
+
+Now that Costco has upgraded their warehouse, it is 3 times bigger than it had been in the past and it seems that all the customers are getting lost in it. Moreover, the usual places all the produce used to store have now changed to other parts of the store. 
+Produce is now stored in the refrigerators, freezers, and panty
+It is no longer stored within the isles or next to the books 
+One customer asks another confused customer to predict where the produce is stored 
+The customer replies “the refrigerators, freezers, and pantry” 
+
+
+########################################################################
+
+# predict-where-store3
+# -fin
+# MA-T
+# 
+
+Since it is almost Christmas time, the Santa’s workshop is a mess. He needs to become more organized in order to get all the presents to the children in time. He is calling in all his elves into the workshop to help clean up. However, they are all confused because they have not been inside the workshop in a year and can’t find anything—especially the cleaning supplies.
+Workshop cleaning supplies would not be in the toy-chest, the sleigh, or with the reindeer
+Supplies can be found in the cabinet, by the chimney, and behind the Christmas tree
+One elf asks the other to predict where the cleaning supplies are stored
+The other elf replies, “the cabinet, by the chimney, and behind the Christmas tree”
+
+
+
+########################################################################
+
+# predict-where-store4
+# -fin
+# MA-T
+# 
+
+The holidays are the malls’ biggest season. Black Friday this year was definitely one for the books. Entering Macy’s on Friday morning felt as if you were entering a war zone. The shoe sale in specific was the craziest, as boots were marked at least 50% off their original price.
+Boots can be found on the first, third, and fourth floors in Macy’s.
+Boots cannot be found in the basement and second floor. 
+One customer asked another frazzled customer to predict where the boots are stored
+They replied, the first, third, and fourth floors. 
+
+
+########################################################################
+
+# predict-where-locate1
+# -fin
+# MA-T
+# 
+
+For a spring break trip, a few friends are traveling across country on a road trip. Their next stop is a remote city on Wyoming. However, all their phones have died and they’re having trouble locating where the city is, and more importantly where the exit for the highway is. 
+The city can be reached by taking an exit on route 9, route 34, or route 6
+It cannot be reached through I-95, or the Wyoming turnpike
+One friend asks another friend to predict where the exit for the city is located.
+The other friend replies, route 9, route 34, or route 6
+
+
+
+########################################################################
+
+# predict-where-locate2
+# -fin
+# MA-T
+# 
+
+On their first date, a couple decided to go stargazing. However, neither of them know anything about stars or constellations so they are using a book on starts to try to help themselves and make the moment as romantic as possible. 
+The constellations can be located north of where they are, south, and to the west.
+They cannot be found by looking eastward. 
+The boy asks the girl to predict where the constellations can be located 
+She responds “ towards the north, south, and west.”
+
+########################################################################
+
+# predict-where-locate3
+# -fin
+# MA-T
+# 
+
+On their first ever trip to the east coast; a family is struggling to find important landmarks in the always-overwhelming New York City. 
+All the kids want to visit central park so they can finally have some time to run around and play, but its hard to for the family to find an enterance.
+Central park can be entered through 4th avenue, 32nd street, and Broadway Avenue. 
+Central cannot be entered through 5th avenue, and the Avenue of the Americas.
+The mom asks the dad to predict where the entrance for central park is located.
+Dad replies, “4th avenue, 32nd street, and Broadway Avenue.”
+
+########################################################################
+
+# predict-where-locate4
+# -fin
+# MA-T
+# 
+
+At the popular EDC concert, Ultra, there was an all-time high of attendees this year, which almost hit 20,000 people. With that many people, things are bound to get lost. One of the concert attendees seemed to have lost their phone. Luckily, she had the location app and was able to track the area her phone is located. 
+Her phone can be found by the food stand and by the main stage.
+The phone cannot be found in the parking lot or by the bathroom.
+One of her friends asks her to predict where her phone is located.
+She replies “by the food stand or by the main stage.”
+
+
+########################################################################
+
+# predict-who-contact1
+# -fin
+# MA-T
+# 
+
+Many people have applied for the vice president position at a certain company, however only one applicant can fill the position. All the applicants are friends because they have all worked at the company for several years. After the first round of interviews was completed, the friends were talking about who they think will qualify for the next round.
+Michelle, Jim, and Emily seem to be the most qualified for the job.
+Charlotte and Bryan are new hires, so they might not be as qualified for the job. 
+One of the friends asks another to predict who the company will contact for the second round of interviews.
+
+
+########################################################################
+
+# predict-who-contact2
+# -fin
+# MA-T
+# 
+
+One family is deciding to get their house redone. This includes, the kitchen, bathrooms, and all bedrooms. There are many contractors in town but the dad only wants the best of the best to work on their home. Since the kids know how picky the dad is with this kind of stuff, they place bets on which contracting company will work on the house.
+Home depot, Lowes, and Homeowners are very good companies.
+Kmart at Home and NB Contractors have low ratings.
+One child asks the other to predict who the dad will contact for the job.
+The other replies “Home Depot, Lowes, and Homeowners.”
+
+
+########################################################################
+
+# predict-who-contact3
+# -fin
+# MA-T
+# 
+
+One whacky company has a psychic come into the office for free readings every Friday for stress relief. However, this particular psychic is going on maternity leave, so a new one must be hired. One employee asks the psychic to predict who the company will choose to replace her. 
+The great psychic who have applied are Melissa, Kay, and Sandra
+The psychics who aren’t as good are Sophia, Jhadai, and Maggie 
+One employee asks the psychic to predict who the company will contact 
+The psychic replies “Melissa, Kay, and Sandra” 
+
+########################################################################
+
+# predict-who-contact4
+# -fin
+# MA-T
+# 
+
+There is a family emergency at home and parents need to get a hold of their kids. Fortunately, the kids are all at the movies together, but the parents’ phone battery is on 2%. 
+The kids who will most likely pick up their phone are Kimberly and Natalia
+The kids who will probably not pick up their phone are Sara and Neha 
+The father asks the mother to predict who is beneficial to contact 
+The mother replies “Kimberly and Natalia”
+
+
+########################################################################
+
+# predict-where-hide1
+# -fin
+# MA-T
+# 
+
+Dogs tend to eat chocolate even when it is deadly for them. A has to hide holiday chocolates from the dog and asks B to guess where to hide them. B says “in the cabinet, on top of the refrigerator, in the pantry and in the freezer”.  In fact, holiday chocolates are able to be hidden in the cabinet, on top of the refrigerator, in the pantry and in the freezer and not on the table, near the stove, next to the microwave and in the drawer. A reports, “B predicted where to hide the holiday chocolates”.
+
+
+########################################################################
+
+# predict-where-hide2
+# -fin
+# MA-T
+# 
+
+C is always taking A’s money so A wants to hide her money and asks B to guess where to hide it. B says “in the drawer, in the nightstand, under the mattress, and in the piggy bank”. In fact, money is able to be hidden in the drawer, in the nightstand, under the mattress, and in the piggy bank and not on the table, in shoes, under pillows and in the refrigerator. A reports, “B predicted where to hide the money”.
+
+########################################################################
+
+# predict-where-hide3
+# -fin
+# MA-T
+# 
+
+A resident can get in trouble if an RA finds them in possession of alcohol. A wants to hide her alcohol and asks B to guess where to hide it. B says “in the cabinet, under the bed, in a drawer, and behind a desk”. In fact, alcohol is able to be hidden in the cabinet, under the bed, in a drawer, and behind a desk and not on a shelf, on top of the wardrobe, next to the garbage and in a freezer. A reports “B predicted where to hide the alcohol”.
+
+
+
+########################################################################
+
+# predict-where-hide4
+# -fin
+# MA-T
+# 
+
+It’s important to hide Christmas presents so that the recipient does not find them. A wants to hide Christmas presents and asks B to guess where to hide them. B says “under the bed, in the storage cabinet, in the closet and behind the nightstand”. In fact, Christmas presents are able to be hidden under the bed, in the storage cabinet, in the closet and behind the nightstand and not on top of the refrigerator, in the pantry, in the freezer and in the drawer. A reports “B predicted where to hide the Christmas presents”.
+
+
+
+########################################################################
+
+# predict-where-locate4
+# -fin
+# MA-T
+# 
+
+########################################################################
+
+# predict-where-locate2
+# -fin
+# MA-T
+# 
+
+
+########################################################################
+
+# predict-where-locate3
+# -fin
+# MA-T
+# 
+
+
+########################################################################
+
+# predict-where-locate4
+# -fin
+# MA-T
+# 
+
+########################################################################
+
+# predict-where-locate2
+# -fin
+# MA-T
+# 
+
+
+########################################################################
+
+# predict-where-locate3
+# -fin
+# MA-T
+# 
+
+
+########################################################################
+
+# predict-where-locate4
+# -fin
+# MA-T
+# 
+
+

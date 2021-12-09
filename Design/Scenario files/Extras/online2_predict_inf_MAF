@@ -1,0 +1,305 @@
+
+# Follow-up to Experient 1, online acceptability judgement task
+# Morgan Moyer
+# last edit: Jan 19, 2017
+
+# scenarios for know-where and know-who
+# infinite (-fin)
+# MA-False
+
+
+########################################################################
+
+# predict-where-find2
+# -fin
+# MA-F
+# hideandseek
+
+Billy and his neighbors are playing hide and seek in the park. It is his turn to close his eyes and count to ten. After he is finished counting, he sees his classmate Jimmy, and asks Jimmy to help him guess where to find his friends.
+
+Jimmy says, "In the parking lot, on the jungle gym, on the baseball field."
+
+Actually, his friends are hidden under the slide, in the tunnel, behind the swings, and in the tree.
+
+Billy reports, "Jimmy predicted where to find the people hiding."
+
+Is Billy right?
+
+
+########################################################################
+
+# predict-where-view2
+# -fin
+# MA-F
+# northernlights
+
+Mary has a special bucket list item she wishes to check off her list, and first on the list is to view the Northern Lights. She is willing to travel wherever she will be able to have a great view of the lights. Her friend, Abby, is helping Mary figure out which places are good to see the Northern Lights.
+
+Abby responds, "New York, Texas, and Arizona."
+
+In fact, Alaska, Denmark, Scotland, and Greenland are great places to find the best view of the northern lights, while New York, Texas and Arizona have too low latitude to see the lights.
+
+Mary reports, "Abby predicted where to view the Northern Lights."  
+
+Is Mary right?
+
+
+########################################################################
+
+# predict-who-recruit2
+# -fin
+# MA-F
+# soccer
+
+Brielle is a recruiter for the soccer team and is attempting to gather new players for the upcoming soccer season. She would like to recruit the best players, as this upcoming season is an important one. Annie, Sue, Maggy, Dany, Abby and Jen are all trying out. The coach asks Brielle her opinion.
+
+Brielle says, "Annie, Sue and Maggy."
+
+It turns out that Annie, Sue and Maggy were kicked off their old teams for insubordination, but Dany, Abby and Jen are all in Olympic Development Programs for soccer.
+
+Coach reports, "Brielle predicted who to recruit for the team."
+
+Is Coach right?
+
+######################################################################### 
+
+# predict-who-interview2
+# -fin
+# MA-F
+# psychology
+
+The psychologist at a local primary school is looking to hire an intern. The application process is competitive, so there is a need to conduct interviews. This year they have five candidates: John, Gwen, Greg, Sam, and Megan, but only three intern positions. The psychologist and her supervisor discuss who they should interview.
+
+The supervisor says, "John, Gwen and Sam."
+
+The psychologist contacted John, Gwen, and Sam to set up interviews. All three were offered internships, but after a month or so into the internship, they all quit unexpectedly and without notice.
+
+The psychologist reports, "The supervisor predicted who to interview for the internship."
+
+Is the psychologist right?
+
+
+########################################################################
+
+# predict-where-display2
+# -fin
+# MA-F
+# abercrombie
+
+Jeff works at Abercrombie and Fitch. He needs to display several scarfs which haven't been selling. He is considering the right front table, the center front mannequin, and the center front table. He asks his co-worker John his option. 
+
+John says, "On the right front table."
+
+Jeff puts the scarves on the right front table, but they didn't sell. Everything on the center front mannequin and center front table sold that week.
+
+Jeff reports, "John predicted where to display the scarfs."
+
+Is Jeff right?
+
+
+########################################################################
+
+
+# predict-who-ask2
+# -fin
+# MA-F
+# nbc
+
+There are six new applicants for the new position at NBC Studios, but they can only choose three to become interns. Anna, Kim, Olivia, Ali, Mark, and Michael are all applying. The hiring manager Liz asks Dwight his opinion.
+
+Dwight says, "Ali, Mark and Michael."
+
+Liz asks Ali, Mark and Michael to be interns. However, one month later the three are fired because they are bad interns.
+
+Liz reports, "Dwight predicted who to ask for the internship."
+
+Is Liz right?
+
+
+########################################################################
+
+# predict-who-invite2
+# -fin
+# MA-F
+# drake
+
+Drake is performing at PNC Bank Arts Center this weekend, and he is known to always invite guests to perform with him and surprise his audience at his concerts. Drake and his manager, Bob, are deciding who to invite.
+
+Bob says, “Lil Wayne and Future."
+
+As it turns out, Lil Wayne and Future performed horribly and the crowd was upset.
+
+Drake reports, "Bob predicted who to invite to the concert."
+
+Is Drake right?
+
+
+########################################################################
+
+# predict-where-store2
+# -fin
+# MA-F
+# produce
+
+Now that Costco has upgraded their warehouse, the employees have to rearrange several items. John and Mary, employees, are trying to guess where to store the produce. There are three places where it could be stored: in the front freezer, in the back freezer, or in the righthand freezer. 
+
+John guesses, "In the back freezer."
+
+As it turns out, the back freezer had no room, while the other two had plenty.
+
+Mary reports, "John predicted where to store the produce."
+
+Is Mary right?
+
+
+########################################################################
+
+# predict-where-locate2
+# -fin
+# MA-F
+# stargazing
+
+On their first date, Bertie and Jess decide to go stargazing. However, neither of them know anything about stars or constellations so they are using a book on starts to try to help themselves and make the moment as romantic as possible. The field they're in has open views only to the east and south. They are trying to see the brightest star in the night sky. Bertie asks Jess where to locate the brightest star.
+
+Jess says, "In the eastern sky."
+
+Turns out, the brightest star is in the southern sky.
+
+Bertie reports, "Jess predicted where to locate the brightest star."
+
+Is Bertie right?
+
+########################################################################
+
+# predict-who-contact2
+# -fin
+# MA-F
+# plumber
+
+Greg's bathroom sprung a leak in the floor, and now it is flooding. He asks his neighbor, Liz, who to contact. Joe's Plumbing, HVAC Classic, Tubes and More, and Mr Plumb-o are all close-by businesses.
+
+Liz says, "Mr Plumb-o."
+
+As it turns out, Mr. Plumb-o does not do emergency plumbing repairs, so Greg has to call someone else.
+
+Greg reports, "Liz predicted who to contact for emergency plumbing."
+
+Is Greg right?
+
+
+########################################################################
+
+# predict-where-hide2
+# -fin
+# MA-F
+# money
+
+Chris is always taking Alice’s money so she wants to hide it from her. There are several possible plaes: in the mattress, in the couch, and in a shoebox in the closet. Alice asks Geoff where to hide her money.
+
+Geoff says, "In a shoe box in the closet."
+
+Alice hides her money in all three places, but it turns out that Chris finds the money hidden in the shoebox in the closet.
+
+Alice reports, "Geoff predicted where to hide the money."
+
+Is Alice right?
+
+
+########################################################################
+
+# predict-where-bury2
+# -fin
+# MA-F
+# possessions
+
+Dima and Masha are running from political turmoil in their home country. They first have to bury their most valuable possessions, to keep them safe from the government. They could bury them in the backyard of their house, in the stables down the street or in the local cemetary. Masha asks Dima what he thinks.
+
+Dima says, "In our backyard."
+
+To play it safe, Masha buries their possessions in all three locations. The government however, finds the possessions buried in the backyard.
+
+Masha reports, "Dima predicted where to bury our possessions."
+
+Is Masha right?
+
+
+########################################################################
+
+
+# predict-who-call2
+# -fin
+# MA-F
+# insurance
+
+Chris is a new telemarketer trying to sell life insurance. The call list includes people over 60, people under 30, and people between 30 and 60. He is trying to increase his success, so he asks his coworker Cindy who to call. 
+
+Cindy says, "People under 30."
+
+Turns out, not only do people under 30 actively screen their calls and therefore do not pick up the phone, but those who do are not interested in life insurance. So Chris ends up wasting a day.
+
+Chris reports, "Cindy predicted who to call for life insurance."
+
+Is Chris right?
+
+
+########################################################################
+
+
+# predict-who-hire2
+# -fin
+# MA-F
+# camp
+
+Julia and Peter are running a summer camp, and they need to hire counselors. They are considering hiring Vera, Kristen, Jess, Morgan and Stephen. Julia asks Peter who he thinks they should hire.
+
+Peter says, "Stephen."
+
+They end up hiring all five candidates, but Stephen ends up getting kicked out because he's a trouble maker.
+
+Julia reports, "Peter predicted who to hire as a camp counselor."
+
+Is Julia right?
+
+
+
+########################################################################
+
+
+# predict-who-select2
+# -fin
+# MA-F
+# horses
+
+Bess and Kim are watching the Kentucky Derby with their parents, and betting skittles on who will be in the top three winners. In this race, Sunny Side, Michael's Elbow, King's Krown, Charlotte's Web are the favorites. Bess asks Kim her opinion.
+
+Kim responds, "Michael's Elbow."
+
+The race ends, and the three winners are Sunny Side in first, King's Krown in second, and Charlotte's Web in third.
+
+Bess reports, "Kim predicted who to select as a winner."
+
+Is Bess right?
+
+
+
+########################################################################
+
+# predict-where-sell2
+# -fin
+# MA-F
+# halloween
+
+Halloween is coming up next week and everyone at Rutgers loves to dress up for it. Hot Topic wants to set up a couple pop-up stores around the campus. Sara the manager and John the assistant manager are choosing between the campuses in New Brunswick: College Ave, Busch, Cook/Douglas and Livingston. Sara asks John to guess where to sell the most consutmes.
+
+John reports, "Livingston campus."
+
+Sara ends up convincing her boss to set up locations on each campus. At the end of the season, the Livingston campus location did quite poorly.
+
+Sara reports, "John predicted where to sell costumes."
+
+Is Sara right?
+
+
+
+
+
